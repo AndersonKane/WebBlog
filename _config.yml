@@ -6,6 +6,7 @@ url:                 https://andersonkane.github.io
 baseurl:             '/WebBlog/'
 paginate:            5
 permalink:           pretty
+excerpt_separator:  '<!-- more -->'
 
 # About/contact
 author:
