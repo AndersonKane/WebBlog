@@ -3,7 +3,7 @@ layout: post
 title: Anaconda使用整理
 ---
 
-# Anaconda使用整理
+
 
 Anaconda是一個用於科學計算的Python發行版，支持 Linux, Mac, Windows系統，提供了包管理與環境管理的功能，可以很方便地解決多版本python並存、切換以及各種第三方包安裝問題。 Anaconda利用工具/命令conda來進行package和environment的管理，並且已經包含了Python和相關的配套工具。
 
